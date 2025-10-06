@@ -8,5 +8,5 @@ C++
 
 ## Features
 - Depth First Search
-- Feature 2
-- Feature 3
+- Connected Components Analysis
+- Dijkstra's Shortest Path
