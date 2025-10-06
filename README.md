@@ -1,2 +1,12 @@
-# graph-structure
-Implemented efficient graph data structure and algorithms, including Depth First Search, connected components analysis, and Dijkstra’s shortest path, to process and analyze complex network data.
+# Graph Data Structure and Algorithms
+
+## Overview
+Implemented an efficient graph data structure and along with pathfinding algorithms, including Depth First Search, connected components analysis, and Dijkstra’s shortest path, to process and analyze complex network data. 
+
+## Tech Stack
+C++
+
+## Features
+- Depth First Search
+- Feature 2
+- Feature 3
